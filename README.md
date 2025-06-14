@@ -1,8 +1,8 @@
 # EventEzy
 
-# VenturesSpace Smart Attendance System 🚀
+# Smart Attendance System 🚀
 
-A fullstack web application to manage attendance during large-scale events, replacing traditional Google Forms and Excel sheets. Built for the VenturesSpace Club at LPU.
+A fullstack web application to manage attendance during large-scale events, replacing traditional Google Forms and Excel sheets. Built for the Clubs at LPU.
 
 ## 👨‍💻 Tech Stack
 
